@@ -1,0 +1,24 @@
+{
+    "name": "CG2.Camera",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Cinemachine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "CG2_CINEMACHINE"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.cinemachine",
+            "expression": "3.0.0",
+            "define": "CG2_CINEMACHINE"
+        }
+    ],
+    "noEngineReferences": false
+}

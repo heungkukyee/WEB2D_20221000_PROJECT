@@ -14,18 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CG2IconSet
   entries:
   - key: hp
-    sprite: {fileID: 21300000, guid: 9bea9bc849c9c4fb185c8666bb83c081, type: 3}
+    sprite: {fileID: 21300000, guid: cb5d0fd0edbe54d5391e83206055d0a7, type: 3}
   - key: exp
-    sprite: {fileID: 21300000, guid: cef5b6cb5e8be4f1e89c66c884c8ec2d, type: 3}
+    sprite: {fileID: 21300000, guid: 49dfd9ff13ddc463dae07121b5bd8fb1, type: 3}
   - key: coin
-    sprite: {fileID: 21300000, guid: 33973cd64c5fb46449bb4775efee2072, type: 3}
+    sprite: {fileID: 21300000, guid: 2ec62700daca9496ead7993d90e4e0f8, type: 3}
   - key: damage
-    sprite: {fileID: 21300000, guid: 9d750846b01d340ef95b390c4b09af6b, type: 3}
+    sprite: {fileID: 21300000, guid: f30b3b579ea034fb3ac1f3cd8fbbac1c, type: 3}
   - key: firerate
-    sprite: {fileID: 21300000, guid: 4622d27c1fe1d45d2a40e4606ee27916, type: 3}
+    sprite: {fileID: 21300000, guid: 99bcbee881ea94865b6374201ec253df, type: 3}
   - key: range
-    sprite: {fileID: 21300000, guid: 795ce2cf9fd3c477f876e7ac16e047bc, type: 3}
+    sprite: {fileID: 21300000, guid: e4c5a4dc2c5b44705bd41781b128d49a, type: 3}
   - key: heal
-    sprite: {fileID: 21300000, guid: 3e10c8a452c6a443e841ef4d480f1ae1, type: 3}
+    sprite: {fileID: 21300000, guid: 3bebdda164c104f3b85bf9516200eb2f, type: 3}
   - key: speed
-    sprite: {fileID: 21300000, guid: cbf44a2a374194adbaa3aee731f5a87c, type: 3}
+    sprite: {fileID: 21300000, guid: e01616cd300604e60b2ae6d4691a3a1f, type: 3}

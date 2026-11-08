@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dba361ad057360d4bb5199fe308e3570, type: 3}
+  m_Name: CG2IconSet
+  m_EditorClassIdentifier: Assembly-CSharp::CG2IconSet
+  entries:
+  - key: hp
+    sprite: {fileID: 21300000, guid: cb5d0fd0edbe54d5391e83206055d0a7, type: 3}
+  - key: exp
+    sprite: {fileID: 21300000, guid: 49dfd9ff13ddc463dae07121b5bd8fb1, type: 3}
+  - key: coin
+    sprite: {fileID: 21300000, guid: 2ec62700daca9496ead7993d90e4e0f8, type: 3}
+  - key: damage
+    sprite: {fileID: 21300000, guid: f30b3b579ea034fb3ac1f3cd8fbbac1c, type: 3}
+  - key: firerate
+    sprite: {fileID: 21300000, guid: 99bcbee881ea94865b6374201ec253df, type: 3}
+  - key: range
+    sprite: {fileID: 21300000, guid: e4c5a4dc2c5b44705bd41781b128d49a, type: 3}
+  - key: heal
+    sprite: {fileID: 21300000, guid: 3bebdda164c104f3b85bf9516200eb2f, type: 3}
+  - key: speed
+    sprite: {fileID: 21300000, guid: e01616cd300604e60b2ae6d4691a3a1f, type: 3}

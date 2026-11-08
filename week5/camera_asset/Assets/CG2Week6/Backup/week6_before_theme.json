@@ -1,0 +1,2974 @@
+{
+    "items": [
+        {
+            "path": "Canvas_HUD_Dynamic/ShopButton/Label",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item1/Icon",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/ExpBar/BG",
+            "kind": "graphic",
+            "color": {
+                "r": 0.10000000149011612,
+                "g": 0.10000000149011612,
+                "b": 0.10000000149011612,
+                "a": 0.800000011920929
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window",
+            "kind": "graphic",
+            "color": {
+                "r": 0.11999999731779099,
+                "g": 0.11999999731779099,
+                "b": 0.18000000715255737,
+                "a": 0.949999988079071
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card1/Name",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel",
+            "kind": "graphic",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.6000000238418579
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/ScoreText",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item1",
+            "kind": "graphic",
+            "color": {
+                "r": 0.2199999988079071,
+                "g": 0.23999999463558197,
+                "b": 0.3199999928474426,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card0/Desc",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Static/TopBar",
+            "kind": "graphic",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.3499999940395355
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card1",
+            "kind": "graphic",
+            "color": {
+                "r": 0.2199999988079071,
+                "g": 0.23999999463558197,
+                "b": 0.3199999928474426,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card1/Desc",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/GameOverPanel/RestartBtn/T",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Title",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Static/Icon_EXP",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card2/Name",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item2/Label",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item3",
+            "kind": "graphic",
+            "color": {
+                "r": 0.2199999988079071,
+                "g": 0.23999999463558197,
+                "b": 0.3199999928474426,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item2/Icon",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/GameOverPanel",
+            "kind": "graphic",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.75
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/ExpBar/FA/F",
+            "kind": "graphic",
+            "color": {
+                "r": 0.20000000298023224,
+                "g": 0.6000000238418579,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card0",
+            "kind": "graphic",
+            "color": {
+                "r": 0.2199999988079071,
+                "g": 0.23999999463558197,
+                "b": 0.3199999928474426,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/GameOverPanel/RestartBtn",
+            "kind": "graphic",
+            "color": {
+                "r": 0.30000001192092896,
+                "g": 0.699999988079071,
+                "b": 0.30000001192092896,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item0",
+            "kind": "graphic",
+            "color": {
+                "r": 0.2199999988079071,
+                "g": 0.23999999463558197,
+                "b": 0.3199999928474426,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/CloseButton",
+            "kind": "graphic",
+            "color": {
+                "r": 0.5,
+                "g": 0.25,
+                "b": 0.25,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card2/Desc",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item1/Label",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/GameOverPanel/ResultText",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item2",
+            "kind": "graphic",
+            "color": {
+                "r": 0.2199999988079071,
+                "g": 0.23999999463558197,
+                "b": 0.3199999928474426,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/ShopButton",
+            "kind": "graphic",
+            "color": {
+                "r": 0.18000000715255737,
+                "g": 0.44999998807907104,
+                "b": 0.75,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Static/Icon_HP",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card2",
+            "kind": "graphic",
+            "color": {
+                "r": 0.2199999988079071,
+                "g": 0.23999999463558197,
+                "b": 0.3199999928474426,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/TimeText",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window",
+            "kind": "graphic",
+            "color": {
+                "r": 0.11999999731779099,
+                "g": 0.11999999731779099,
+                "b": 0.18000000715255737,
+                "a": 0.949999988079071
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item3/Label",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item0/Label",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/HpBar/FA/F",
+            "kind": "graphic",
+            "color": {
+                "r": 0.800000011920929,
+                "g": 0.15000000596046448,
+                "b": 0.15000000596046448,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item3/Icon",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item0/Icon",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card0/Name",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Gold",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Title",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card2/Icon",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/LevelText",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card0/Icon",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/CloseButton/Label",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/HpBar/BG",
+            "kind": "graphic",
+            "color": {
+                "r": 0.10000000149011612,
+                "g": 0.10000000149011612,
+                "b": 0.10000000149011612,
+                "a": 0.800000011920929
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card1/Icon",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_HUD_Static/Icon_Coin",
+            "kind": "graphic",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel",
+            "kind": "graphic",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.6000000238418579
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item2",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_Popup/GameOverPanel/RestartBtn",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/ExpBar",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card2",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item0",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/ShopButton",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item3",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/Item1",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card0",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_Popup/ShopPanel/Window/CloseButton",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_HUD_Dynamic/HpBar",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "Canvas_Popup/LevelUpPanel/Window/Card1",
+            "kind": "selectable",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "transition": 1,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_PressedColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 1.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.9607843160629272,
+                    "g": 0.9607843160629272,
+                    "b": 0.9607843160629272,
+                    "a": 1.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.7843137383460999,
+                    "g": 0.7843137383460999,
+                    "b": 0.7843137383460999,
+                    "a": 0.501960813999176
+                },
+                "m_ColorMultiplier": 1.0,
+                "m_FadeDuration": 0.10000000149011612
+            }
+        },
+        {
+            "path": "CG2 GameMap/Tilemap_Wall",
+            "kind": "tilemap",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "CG2 GameMap/Tilemap_Ground",
+            "kind": "tilemap",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Global Light 2D",
+            "kind": "light",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        },
+        {
+            "path": "Main Camera",
+            "kind": "camera",
+            "color": {
+                "r": 0.05000000074505806,
+                "g": 0.05000000074505806,
+                "b": 0.10000000149011612,
+                "a": 1.0
+            },
+            "transition": 0,
+            "colors": {
+                "m_NormalColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_HighlightedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_PressedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_SelectedColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_DisabledColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0
+                },
+                "m_ColorMultiplier": 0.0,
+                "m_FadeDuration": 0.0
+            }
+        }
+    ]
+}
